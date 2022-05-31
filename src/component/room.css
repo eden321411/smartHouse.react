@@ -1,0 +1,55 @@
+.selectProductType{
+    font-size: medium;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid cyan;
+    border-radius: 10px;
+}
+
+.addBtn{
+    font-size: medium;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    height: 30px;
+    width: 167px;
+    border: 2px solid deepskyblue;
+    border-radius: 10px;
+    background-color: deepskyblue;
+}
+.addBtn:hover{
+    color: deepskyblue;
+    background-color: black;
+}
+
+.addProductBtn{
+    font-size: medium;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 167px;
+    border: 1px solid deepskyblue;
+    border-radius: 10px;
+}
+
+.homeBtn {
+    font-size: large;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    height: 50px;
+    width: 167px;
+    border: 2px solid deepskyblue;
+    border-radius: 10px;
+    background-color: deepskyblue;
+}
+
+.homeBtn:hover{
+    color: deepskyblue;
+    background-color: black;
+}

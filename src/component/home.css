@@ -1,0 +1,25 @@
+.btnAdd{
+    font-size: large;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    height: 50px;
+    width: 100px;
+    border: 2px solid deepskyblue;
+    border-radius: 10px;
+    background-color: deepskyblue;
+    text-decoration: none;
+}
+
+.btnAdd:hover{
+    color: deepskyblue;
+    background-color: black;
+    text-decoration: none;
+}
+
+.divBtnAdd{
+    display: flex;  
+    justify-content: center;  
+    align-items: center
+}
