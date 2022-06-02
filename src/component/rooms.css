@@ -6,11 +6,15 @@
     margin: 10px;
     display: inline;
     border-radius: 15px;
+    border: none;
     text-decoration: none;
+    box-shadow: 4px 4px 4px gray;
+
 }
 
 .btnRoom:hover{
     color: aliceblue;
+
 }
 
 .roomD{

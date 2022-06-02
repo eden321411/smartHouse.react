@@ -1,14 +1,14 @@
 class Product{
     constructor(name){
       this.name = name;
-      this.status ='red';
+      this.status ='rgb(247, 82, 82)';
     }
   
     changeStatus(){
-        if(this.status == 'red'){
-            this.status = 'green';
+        if(this.status == 'rgb(247, 82, 82)'){
+            this.status = 'rgb(95, 179, 95)';
         }
-       else this.status = 'red';
+       else this.status = 'rgb(247, 82, 82)';
     }
   }
   

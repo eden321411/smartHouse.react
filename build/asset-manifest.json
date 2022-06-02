@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/smarthouse.react/static/css/main.646ac150.css",
-    "main.js": "/smarthouse.react/static/js/main.8b74a37d.js",
+    "main.css": "/smarthouse.react/static/css/main.6fb47d1b.css",
+    "main.js": "/smarthouse.react/static/js/main.be11867b.js",
     "static/js/787.fea5cc7c.chunk.js": "/smarthouse.react/static/js/787.fea5cc7c.chunk.js",
-    "static/media/smarth.jpg": "/smarthouse.react/static/media/smarth.7e07dab9145a63aba81c.jpg",
+    "static/media/sh.png": "/smarthouse.react/static/media/sh.5a5f651bbaf976c2a021.png",
     "index.html": "/smarthouse.react/index.html",
-    "main.646ac150.css.map": "/smarthouse.react/static/css/main.646ac150.css.map",
-    "main.8b74a37d.js.map": "/smarthouse.react/static/js/main.8b74a37d.js.map",
+    "main.6fb47d1b.css.map": "/smarthouse.react/static/css/main.6fb47d1b.css.map",
+    "main.be11867b.js.map": "/smarthouse.react/static/js/main.be11867b.js.map",
     "787.fea5cc7c.chunk.js.map": "/smarthouse.react/static/js/787.fea5cc7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.646ac150.css",
-    "static/js/main.8b74a37d.js"
+    "static/css/main.6fb47d1b.css",
+    "static/js/main.be11867b.js"
   ]
 }

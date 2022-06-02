@@ -1,9 +1,10 @@
 .btnAdd{
+    color: aliceblue;
     font-size: large;
     font-family:Arial, Helvetica, sans-serif;
     font-weight: bold;
     margin-bottom: 10px;
-    margin-top: 10px;
+    margin-top: 40px;
     height: 50px;
     width: 100px;
     border: 2px solid deepskyblue;
@@ -14,7 +15,7 @@
 
 .btnAdd:hover{
     color: deepskyblue;
-    background-color: black;
+    background-color: aliceblue;
     text-decoration: none;
 }
 

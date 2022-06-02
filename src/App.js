@@ -1,5 +1,5 @@
 import './App.css';
-import {HashRouter , Routes, Route} from 'react-router-dom';
+import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import Home from './component/Home';
 import Title from './component/Title';
 import AddRoom from './component/AddRoom';
@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       
       <Title/>
-      <HashRouter>
+      <BrowserRouter>
         <Routes>
           <Route path='/' element={<Home home={home}/>} />
           <Route path='/addroom' element={<AddRoom home={home}/>} />
@@ -22,7 +22,7 @@ function App() {
 
 
         </Routes>
-      </HashRouter>
+      </BrowserRouter>
 
 
     </div>
